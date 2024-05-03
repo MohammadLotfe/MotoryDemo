@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "606D9C31-1DCB-4EE1-A9C7-73D608374749"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB9DD4DD-8040-4355-B51A-86EB0ECBAFFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MotoryTask/ImageViewerScene/ContentView/ViewerContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "urlImage"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EB9DD4DD-8040-4355-B51A-86EB0ECBAFFB - e27fd3746bf3564a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerContentView.urlImage.didset : Swift.String"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ContentView/ViewerContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "EB9DD4DD-8040-4355-B51A-86EB0ECBAFFB - e27fd3746bf3566b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerContentView.urlImage.didset : Swift.String"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ContentView/ViewerContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 5aba88e2bf0b346d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - a66f8b6060bc65cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - efb469bbde351dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - f87c5aeaf1ad9666"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 6c798150403cb6a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.init(urlImage: Swift.String) -&gt; MotoryTask.ViewerViewController"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 81177f03166d53e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MotoryTask.ViewerViewController&gt;"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 507d77a148976160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.getter : Swift.String"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 7f0ca885316f90d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.setter : Swift.String"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 994587c97287bcd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.modify : Swift.String"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 58ea1bbf1f885093"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 6c798150403cb6a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.init(urlImage: Swift.String) -&gt; MotoryTask.ViewerViewController"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "642FC38D-17F7-4FF7-8311-DBF963F7DFC8 - 81177f03166d53e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MotoryTask.ViewerViewController&gt;"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04A8388F-0448-4FC6-9509-1F1FBDAD075E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(urlImage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04A8388F-0448-4FC6-9509-1F1FBDAD075E - 1b9c738d65aa67e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.urlImage.didset : Swift.String"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "04A8388F-0448-4FC6-9509-1F1FBDAD075E - 33dbe8641cf24bb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.__allocating_init(urlImage: Swift.String) -&gt; MotoryTask.ViewerViewController"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "04A8388F-0448-4FC6-9509-1F1FBDAD075E - 6c798150403cb680"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MotoryTask.ViewerViewController.init(urlImage: Swift.String) -&gt; MotoryTask.ViewerViewController"
+                  moduleName = "MotoryTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammadnedal/Desktop/MotoryTask/MotoryTask/ImageViewerScene/ViewController/ViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B27EA8F0-4C5D-4B4A-BD0E-388948EF5698"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MotoryTask/GallaryScene/ViewController/GallaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "bindingUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6887954E-E8FF-4BDD-AA9A-EF17B5AC088A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MotoryTask/GallaryScene/ContentView/MainView/GallaryContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "list"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+enum Typo:String,Equatable {
+    case all
+    case favourit
+}

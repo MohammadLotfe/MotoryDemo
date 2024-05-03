@@ -10,12 +10,12 @@ import Combine
 
 
 protocol GallaryRepositoryProtocol {
-    func callApi()async -> AnyPublisher<[PhotosResponseModel],NetworkError>
+    func callApi(page:Int)async -> AnyPublisher<[PhotosResponseModel],NetworkError>
 }
 
 class GallaryRepository:GallaryRepositoryProtocol {
     
-    func callApi()async -> AnyPublisher<[PhotosResponseModel], NetworkError> {
-        return APIRequest().requset()
+    func callApi(page:Int)async -> AnyPublisher<[PhotosResponseModel], NetworkError> {
+        return APIRequest().requset(page: page)
     }
 }
